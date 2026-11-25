@@ -1,6 +1,6 @@
 {
  "v": 1,
- "t": "2026-11-25T04:57:49.613Z",
+ "t": "2026-11-25T04:59:03.069Z",
  "images": {
   "exp-zip": {
    "u": "images/exp-zip-mwvit3x3.webp",
@@ -46,6 +46,12 @@
   },
   "nb4": {
    "u": "images/nb4-mwvnk5dl.webp",
+   "s": 1,
+   "x": 0,
+   "y": 0
+  },
+  "popup-img": {
+   "u": "images/popup-img-mwvnlpwa.webp",
    "s": 1,
    "x": 0,
    "y": 0
