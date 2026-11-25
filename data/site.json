@@ -1,0 +1,22 @@
+{
+ "v": 1,
+ "t": "2026-11-25T02:21:48.757Z",
+ "images": {},
+ "board": null,
+ "popup": null,
+ "status": {
+  "zip": {
+   "state": "stop",
+   "note": ""
+  },
+  "bike": {
+   "state": "ok",
+   "note": ""
+  },
+  "wxMode": "auto",
+  "wx": "",
+  "note": "",
+  "date": "2026-11-25",
+  "at": "11:21"
+ }
+}
