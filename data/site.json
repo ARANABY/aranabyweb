@@ -1,9 +1,15 @@
 {
  "v": 1,
- "t": "2026-11-25T02:44:50.027Z",
+ "t": "2026-11-25T02:48:06.119Z",
  "images": {
   "exp-zip": {
    "u": "images/exp-zip-mwvit3x3.webp",
+   "s": 1,
+   "x": 0,
+   "y": 0
+  },
+  "act-g1": {
+   "u": "images/act-g1-mwvixb7i.webp",
    "s": 1,
    "x": 0,
    "y": 0
