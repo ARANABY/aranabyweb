@@ -1,6 +1,6 @@
 {
  "v": 1,
- "t": "2026-11-25T04:59:03.069Z",
+ "t": "2026-11-25T05:07:52.051Z",
  "images": {
   "exp-zip": {
    "u": "images/exp-zip-mwvit3x3.webp",
@@ -58,7 +58,13 @@
   }
  },
  "board": null,
- "popup": null,
+ "popup": {
+  "on": true,
+  "title": "겨을 시즌 운영 안내",
+  "body": "12월부터 평일 16:30까지 운영합니다. 기상 상황에 따라 변동될 수 있어요.",
+  "start": "",
+  "end": ""
+ },
  "status": {
   "zip": {
    "state": "stop",
