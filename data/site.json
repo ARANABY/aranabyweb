@@ -1,6 +1,6 @@
 {
  "v": 1,
- "t": "2026-11-25T06:03:37.544Z",
+ "t": "2026-11-25T06:04:24.871Z",
  "images": {
   "exp-zip": {
    "u": "images/exp-zip-mwvit3x3.webp",
@@ -58,6 +58,12 @@
   },
   "about-bike": {
    "u": "images/about-bike-mwvpwqnb.webp",
+   "s": 1,
+   "x": 0,
+   "y": 0
+  },
+  "about-zip": {
+   "u": "images/about-zip-mwvpxryz.webp",
    "s": 1,
    "x": 0,
    "y": 0
